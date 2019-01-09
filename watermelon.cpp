@@ -10,3 +10,5 @@ else
 cout<<"NO";
 return 0;
 }
+
+/*link:   https://codeforces.com/contest/4/problem/A      */
